@@ -49,3 +49,7 @@
 13)
 * https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/9/100023935
 * https://github.com/kafcioo/polkadot-hackathon/tree/master/deploy-ERC20
+
+14) 
+* https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/14/100023940
+* https://github.com/kafcioo/polkadot-hackathon/tree/master/frontend
