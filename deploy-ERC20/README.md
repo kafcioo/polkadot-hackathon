@@ -1,6 +1,6 @@
 * Run the node first.
 * Go to polkadot app.
-* "Upload WASM" with erc20.wasm and put in metadata.json as "contract ABI". (found in contractInfo folder)
+* "Upload WASM" with erc20.wasm and metadata.json (found in contractInfo folder)
 * Deploy Contract.
 * Execute calls on the contract.
 ![Image of deploy](https://github.com/kafcioo/polkadot-hackathon/blob/master/deploy-ERC20/Screenshot%20from%202020-10-24%2021-25-09.png)
