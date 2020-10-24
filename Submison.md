@@ -1,5 +1,5 @@
 1) 
-** https://github.com/Polkadot-Network/hello-world-by-polkadot/issues/17
+* https://github.com/Polkadot-Network/hello-world-by-polkadot/issues/17
 * https://github.com/kafcioo/polkadot-hackathon/blob/master/Screenshot%20from%202020-10-18%2020-44-11.png
 
 2)
