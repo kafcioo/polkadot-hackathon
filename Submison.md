@@ -40,7 +40,7 @@
 
 11)
 * https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/10/100023936
-* https://github.com/kafcioo/polkadot-hackathon/blob/master/Screenshot%20from%202020-10-24%2018-57-17.png
+* https://github.com/kafcioo/polkadot-hackathon/blob/master/Screenshot%20from%202020-10-24%2021-54-53.png
 
 12)
 * https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/8/100023934
