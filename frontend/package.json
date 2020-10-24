@@ -83,10 +83,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://kichjang.github.io/HelloWorldPolkadot",
-  "bugs": {
-    "url": "https://github.com/kichjang/HelloWorldPolkadot/issues"
-  },
+  "homepage": "https://github.com/kafcioo/polkadot-hackathon/tree/master/frontend-javascript",
   "keywords": [
     "substrate",
     "substrate-ui",
