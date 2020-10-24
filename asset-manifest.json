@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/kafcioo/polkadot-hackathon/frontend/static/js/main.03805630.chunk.js",
-    "main.js.map": "/kafcioo/polkadot-hackathon/frontend/static/js/main.03805630.chunk.js.map",
-    "runtime-main.js": "/kafcioo/polkadot-hackathon/frontend/static/js/runtime-main.885d515f.js",
-    "runtime-main.js.map": "/kafcioo/polkadot-hackathon/frontend/static/js/runtime-main.885d515f.js.map",
-    "static/css/2.b262770c.chunk.css": "/kafcioo/polkadot-hackathon/frontend/static/css/2.b262770c.chunk.css",
-    "static/js/2.5351b09b.chunk.js": "/kafcioo/polkadot-hackathon/frontend/static/js/2.5351b09b.chunk.js",
-    "static/js/2.5351b09b.chunk.js.map": "/kafcioo/polkadot-hackathon/frontend/static/js/2.5351b09b.chunk.js.map",
-    "index.html": "/kafcioo/polkadot-hackathon/frontend/index.html",
-    "precache-manifest.55b918bc82c04a704090b5994875b01d.js": "/kafcioo/polkadot-hackathon/frontend/precache-manifest.55b918bc82c04a704090b5994875b01d.js",
-    "service-worker.js": "/kafcioo/polkadot-hackathon/frontend/service-worker.js",
-    "static/css/2.b262770c.chunk.css.map": "/kafcioo/polkadot-hackathon/frontend/static/css/2.b262770c.chunk.css.map",
-    "static/js/2.5351b09b.chunk.js.LICENSE.txt": "/kafcioo/polkadot-hackathon/frontend/static/js/2.5351b09b.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/kafcioo/polkadot-hackathon/frontend/static/media/outline-icons.ef60a4f6.woff"
+    "main.js": "/kafcioo.github.io/static/js/main.263c1e73.chunk.js",
+    "main.js.map": "/kafcioo.github.io/static/js/main.263c1e73.chunk.js.map",
+    "runtime-main.js": "/kafcioo.github.io/static/js/runtime-main.e4cdb375.js",
+    "runtime-main.js.map": "/kafcioo.github.io/static/js/runtime-main.e4cdb375.js.map",
+    "static/css/2.4129c0ee.chunk.css": "/kafcioo.github.io/static/css/2.4129c0ee.chunk.css",
+    "static/js/2.b4a5a06e.chunk.js": "/kafcioo.github.io/static/js/2.b4a5a06e.chunk.js",
+    "static/js/2.b4a5a06e.chunk.js.map": "/kafcioo.github.io/static/js/2.b4a5a06e.chunk.js.map",
+    "index.html": "/kafcioo.github.io/index.html",
+    "precache-manifest.71b81e2dc0bee9a7ed1349b10647f816.js": "/kafcioo.github.io/precache-manifest.71b81e2dc0bee9a7ed1349b10647f816.js",
+    "service-worker.js": "/kafcioo.github.io/service-worker.js",
+    "static/css/2.4129c0ee.chunk.css.map": "/kafcioo.github.io/static/css/2.4129c0ee.chunk.css.map",
+    "static/js/2.b4a5a06e.chunk.js.LICENSE.txt": "/kafcioo.github.io/static/js/2.b4a5a06e.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/kafcioo.github.io/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.885d515f.js",
-    "static/css/2.b262770c.chunk.css",
-    "static/js/2.5351b09b.chunk.js",
-    "static/js/main.03805630.chunk.js"
+    "static/js/runtime-main.e4cdb375.js",
+    "static/css/2.4129c0ee.chunk.css",
+    "static/js/2.b4a5a06e.chunk.js",
+    "static/js/main.263c1e73.chunk.js"
   ]
 }
