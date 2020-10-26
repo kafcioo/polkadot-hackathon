@@ -57,3 +57,7 @@
 15)
 * https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/12/100023938
 * https://github.com/kafcioo/polkadot-hackathon/blob/master/Screenshot%20from%202020-10-25%2009-08-00.png
+
+16)
+* https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933
+* https://github.com/kafcioo/polkadot-hackathon/tree/master/frame-dev
