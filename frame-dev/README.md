@@ -6,4 +6,4 @@ https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933
     * sudo yarn
     * sudo yarn start
 
-![Image of evidence]https://github.com/kafcioo/polkadot-hackathon/blob/master/frame-dev/Screenshot%20from%202020-10-26%2021-08-23.png
+![Image of evidence](https://github.com/kafcioo/polkadot-hackathon/blob/master/frame-dev/Screenshot%20from%202020-10-26%2021-08-23.png)
