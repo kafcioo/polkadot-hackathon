@@ -3,7 +3,7 @@
 * open https://polkadot.js.org/apps/#/extrinsics and start creating nfts !
 
 ### Interface
-![image](Screenshot from 2020-10-27 13-00-17.png)
+![image of iterface ](https://github.com/kafcioo/polkadot-hackathon/blob/master/ntfs/Screenshot%20from%202020-10-27%2013-00-17.png)
 
 ### Create nft
-![image](Screenshot from 2020-10-27 13-03-25.png)
+![image of create](https://github.com/kafcioo/polkadot-hackathon/blob/master/ntfs/Screenshot%20from%202020-10-27%2013-03-25.png)
