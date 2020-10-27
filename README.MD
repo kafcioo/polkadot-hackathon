@@ -61,3 +61,7 @@
 16)
 * https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933
 * https://github.com/kafcioo/polkadot-hackathon/tree/master/frame-dev
+
+17
+* https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951
+* https://github.com/kafcioo/polkadot-hackathon/tree/master/ntfs
