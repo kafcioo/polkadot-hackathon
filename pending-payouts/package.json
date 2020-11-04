@@ -1,0 +1,11 @@
+{
+  "name": "pending-payouts",
+  "version": "1.0.0",
+  "main": "pending-payouts.js",
+  "license": "MIT",
+  "dependencies": {
+    "@substrate/api-sidecar": "^1.0.0",
+    "axios": "^0.21.0",
+    "got": "^11.8.0"
+  }
+}
