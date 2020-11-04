@@ -72,3 +72,7 @@
 18 ) [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support
 * https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952
 * https://github.com/kafcioo/polkadot-hackathon/tree/master/multi-currency
+
+19) [ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts
+* https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/5/100023931
+* https://github.com/kafcioo/polkadot-hackathon/tree/master/pending-payouts
